@@ -2,10 +2,6 @@
 
 这时一个对透明背景图片添加各种特效的工程。
 
-## Demo
-
-[Click here to see live demo.](https://liajoy.github.io/image-stroke/)
-
 ## 运行本Demo
 
 ### 安装
